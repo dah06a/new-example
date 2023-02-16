@@ -11,3 +11,6 @@ html {
     box-sizing: inherit;
 }
 
+div {
+    background-color: lightsteelblue;
+}
