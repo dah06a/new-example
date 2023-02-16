@@ -1,0 +1,13 @@
+/* CSS Reset - This will help your project start off clean */
+
+html {
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
